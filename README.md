@@ -1,4 +1,4 @@
-# kawaiishop# Kawaii Shop
+# kawaiishop#
 
 Welcome to Kawaii Shop! Your go-to destination for all things cute and adorable. We specialize in bringing you a delightful selection of kawaii items that are sure to brighten your day.
 
