@@ -2,6 +2,8 @@ body {
     font-family: sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #fdf7f7;
+    
 }
 
 nav {
@@ -119,6 +121,7 @@ main {
     text-align: center;
     display: flex;
     flex-direction: column;
+    background-color: #FFFFFF;
 }
 
 .product h3 {
